@@ -10,7 +10,7 @@ the [Go compiler](https://golang.org/dl/) helps :)
 ## Why?
 
 I have multiple Prusa and Prusa clone machines, each having their own Einsy
-logic board. All expect the official Prusa machine have no serial number in
+logic board. All clone machines unfortuantly have no serial number in
 their USB descriptors, making it imposible to map the machines consistently
 to a usb tty device. E.g. 5 machines having
 `/dev/serial/by-id/usb-Prusa_Research__prusa3d.com__Original_Prusa_i3_MK3____________________-if00`
