@@ -1,4 +1,6 @@
 # EinsySerialNumber
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmiddelink%2FEinsySerialnumber.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmiddelink%2FEinsySerialnumber?ref=badge_shield)
+
 
 ## TL;DR
 
@@ -84,3 +86,7 @@ Sadly I cannot find the source of the 32u2 USB\>serial converter, as such I can
 only speculate it has some special commands to read/write the serial number
 without having to jump to all of the above hoops. Hopefully one day it will be
 released as opensource as well so we can verify this assumption.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmiddelink%2FEinsySerialnumber.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmiddelink%2FEinsySerialnumber?ref=badge_large)
